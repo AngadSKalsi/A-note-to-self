@@ -6,4 +6,4 @@ tags:
 
 
 ---
-This is the Introduction
+Hi I am Angad, a developer with expertise in frontend development
